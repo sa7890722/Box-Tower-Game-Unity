@@ -6,6 +6,9 @@ Unity 3D (Game Engine)
 C# (Logic)  
 Visual studio (IDE)  
 
+# Note-
+All the sprites used in the game have note been uploaded.  
+  
 Link to play the game : https://the-wolf-17.itch.io/box-tower
 
 ![1](https://user-images.githubusercontent.com/43096636/93686532-7ae41480-fad4-11ea-930c-c7a75b4f934f.png)
